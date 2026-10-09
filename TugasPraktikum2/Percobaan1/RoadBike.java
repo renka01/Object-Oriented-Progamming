@@ -1,3 +1,4 @@
+package Percobaan1;
 public class RoadBike extends Bike {
     private int tireWidth;
 
